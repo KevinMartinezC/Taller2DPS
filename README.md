@@ -7,5 +7,5 @@
 
 ## Snacks
 
-* **Ejercicio 1: https://snack.expo.dev/@kevin_martinezdev/ejercicio1
-* **Ejercicio 2: https://snack.expo.dev/@kevin_martinezdev/ejercicio2_weathermapapi
+* Ejercicio 1: https://snack.expo.dev/@kevin_martinezdev/ejercicio1
+* Ejercicio 2: https://snack.expo.dev/@kevin_martinezdev/ejercicio2_weathermapapi
